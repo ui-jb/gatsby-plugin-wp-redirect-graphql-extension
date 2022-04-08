@@ -1,6 +1,6 @@
 {
   "name": "gatsby-plugin-wp-redirect-graphql-extension",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Gatsby plugin to be used in tandem with the WordPress plugin 'Redirection GraphQL Extension' to automatically build redirects for your Gatsby site.",
   "main": "index.js",
   "scripts": {
