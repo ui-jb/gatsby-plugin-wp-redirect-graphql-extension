@@ -1,14 +1,14 @@
 {
   "name": "gatsby-plugin-wp-redirect-graphql-extension",
   "version": "1.0.0",
-  "description": "This README would normally document whatever steps are necessary to get your application up and running.",
+  "description": "Gatsby plugin to be used in tandem with the WordPress plugin 'Redirection GraphQL Extension' to automatically build redirects for your Gatsby site.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@bitbucket.org/urban-insight/gatsby-plugin-wp-redirect-graphql-extension.git"
+    "url": "git+ssh://git@github.com:ui-jb/gatsby-plugin-wp-redirect-graphql-extension.git"
   },
   "keywords": [
     "gatsby",
@@ -16,5 +16,5 @@
   ],
   "author": "Joseph Bayer",
   "license": "ISC",
-  "homepage": "https://bitbucket.org/urban-insight/gatsby-plugin-wp-redirect-graphql-extension#readme"
+  "homepage": "https://github.com/ui-jb/gatsby-plugin-wp-redirect-graphql-extension#readme"
 }
